@@ -1,2 +1,2 @@
 # lamborghini
-Design  web site for lamborghini car tournament
+Design web site for lamborghini car tournament
